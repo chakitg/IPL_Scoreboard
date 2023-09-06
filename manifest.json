@@ -1,0 +1,11 @@
+{
+    "name": "IPL scoreboard",
+    "version": "1.0.0",
+    "description": "An IPL score extension that can show up the latest IPL scores",
+    "manifest_version": 3,
+    "author": "Chakit Gupta",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "IPL-scoreboard"
+    }
+}
